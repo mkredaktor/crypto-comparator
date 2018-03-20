@@ -20,7 +20,7 @@ Configuration module (conf.js) automatically reloads the config file (config.jso
 
 The configuration module tries to load the config.json file, and if it could not load it, it tries to load the config.js file.
 
-# config.json structure
+### config.json structure
 ```{
     "url" : "https://api.coinmarketcap.com/v1/ticker/bitcoin",
     "ws_url": "wss://ws.cex.io/ws/",
