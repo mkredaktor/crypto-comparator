@@ -14,8 +14,6 @@ Crypto Comparator calculate difference beetween those prices and print it to con
   or
   git clone https://github.com/mkredaktor/crypto-comparator.git
   npm install
-  or
-  npx github:mkredaktor/crypto-comparator
 ```
 
 ## Configuration
