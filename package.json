@@ -11,7 +11,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mkredaktor/crypto-comparator.git"
-  },  
+  },
   "keywords": [
     "cex.io",
     "nodejs",
@@ -19,8 +19,8 @@
     "REST",
     "Websocket",
     "promises",
-	"test task",
-	"crypto compare"
+    "test task",
+    "crypto compare"
   ],
   "main": "diff.js",
   "dependencies": {
