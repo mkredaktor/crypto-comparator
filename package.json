@@ -1,0 +1,36 @@
+{
+  "name": "crypto-comparator",
+  "version": "1.0.0",
+  "description": "Crypto Comparator is Test task for CEX.IO on Node.js",
+  "author": "Vladislav Gordienko <mkredaktor@gmail.com>",
+  "homepage": "https://github.com/mkredaktor/crypto-comparator#readme",
+  "scripts": {
+    "start": "node ./diff",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkredaktor/crypto-comparator.git"
+  },  
+  "keywords": [
+    "cex.io",
+    "nodejs",
+    "javascript",
+    "REST",
+    "Websocket",
+    "promises",
+	"test task",
+	"crypto compare"
+  ],
+  "main": "diff.js",
+  "dependencies": {
+    "cexio-api-node": "^1.2.0",
+    "log4js": "^2.5.3",
+    "mocha": "^5.0.4",
+    "moment": "^2.21.0",
+    "q": "^1.5.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+    "ws": "^5.1.0"
+  }
+}
