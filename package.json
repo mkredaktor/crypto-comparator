@@ -19,8 +19,8 @@
     "REST",
     "Websocket",
     "promises",
-	"test task",
-	"crypto compare"
+    "test task",
+    "crypto compare"
   ],
   "main": "diff.js",
   "dependencies": {
