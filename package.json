@@ -1,6 +1,6 @@
 {
   "name": "crypto-comparator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Crypto Comparator is Test task for CEX.IO on Node.js",
   "author": "Vladislav Gordienko <mkredaktor@gmail.com>",
   "homepage": "https://github.com/mkredaktor/crypto-comparator#readme",
