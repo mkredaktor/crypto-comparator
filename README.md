@@ -17,7 +17,7 @@ Crypto Comparator calculate difference beetween those prices and print it to con
 ## Configuration
 Configuration module (conf.js) automatically reloads the config file (config.json or config.js) at runtime if the config file has been changed.
 
-The configuration module tries to load the config.json file, and if it could not load it, it tries to load the config.js file.
+The configuration module tries to load the config.json file, and if it could not load it, then tries to load the config.js file.
 
 ### config.json structure
 ```
